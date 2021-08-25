@@ -1,7 +1,7 @@
 # LEASING CODE APP
 ## _Sistema moderno web para operaciones exigentes_
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Logo Netcode](https://netcode.cl/Netcode-powered.png)
 
 
 Proyecto 100% Spring Boot, basasdo en estándares de industria exigente y con altos cargos a la mejora evolutiva y correctia, nace Leasing Code, de la mano de "Netcode.cl".
