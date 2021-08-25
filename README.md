@@ -1,7 +1,7 @@
 # LEASING CODE APP
 ## _Sistema moderno web para operaciones exigentes_
 
-[![N|Solid](https://netcode.cl/Netcode-powered.png)](https://netcode.cl)
+[![Netcode](https://netcode.cl/Netcode-powered.png)](https://netcode.cl)
 
 Proyecto 100% Spring Boot, basasdo en estándares de industria exigente y con altos cargos a la mejora evolutiva y correctia, nace Leasing Code, de la mano de "Netcode.cl".
 
